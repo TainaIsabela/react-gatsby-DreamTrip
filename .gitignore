@@ -57,7 +57,7 @@ typings/
 # gatsby files
 .cache/
 public
-
+src/assets/videos/
 # Mac files
 .DS_Store
 
