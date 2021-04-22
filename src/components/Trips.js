@@ -98,7 +98,7 @@ const ProductCard = styled.div`
     height:650px;
     position: relative;
     border-radius: 10px;
-    transition: 0.2s ease;
+    transition: 0.3s ease;
 `
 
 const ProductImg = styled(Img)`
