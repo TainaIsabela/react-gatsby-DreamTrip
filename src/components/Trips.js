@@ -42,7 +42,7 @@ function getTrips(data) {
                         <ProductTitle>{item.node.name}</ProductTitle>
                     </TextWrap>
                     <Button to="/trips" primary="true"
-                     round="true" css={`position:absolute; top: 55vh; font-size:14px;`}>{item.node.button}</Button>
+                     round="true" css={`position:absolute; top: 550px; font-size:14px;`}>{item.node.button}</Button>
                 </ProductInfo>
             </ProductCard>
         )
@@ -130,7 +130,7 @@ const TextWrap = styled.div`
     display:flex;
     align-items: center;
     position: absolute;
-    top: 50vh;
+    top: 500px;
 `
 
 const ProductTitle = styled.div`

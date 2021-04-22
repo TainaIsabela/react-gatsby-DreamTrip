@@ -4,6 +4,7 @@ import Hero from "../components/Hero"
 import Trips from "../components/Trips"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
+import Stats from "../components/Stats"
 
 const IndexPage = () => (
   <Layout>
@@ -11,6 +12,7 @@ const IndexPage = () => (
     <Hero/>
     <Trips heading="Nossos Destinos Favoritos" />
     <Testimonials/>
+    <Stats/>
   </Layout>
 )
 
