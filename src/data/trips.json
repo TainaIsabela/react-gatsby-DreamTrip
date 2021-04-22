@@ -1,0 +1,24 @@
+[
+    {
+        "img": "../assets/images/praia.jpg",
+        "alt": "Praia das Maldivas",
+        "name": "Maldivas",
+        "button":"Descubra seu próximo destino"
+    },
+    {
+        "img": "../assets/images/cachoeira.jpg",
+        "alt": "Cascatas",
+        "name": "Cascatas da ",
+        "button":"Descubra seu próximo destino"
+    },{
+        "img": "../assets/images/lagoa.jpg",
+        "alt": "Lagoa",
+        "name": "Lagoa",
+        "button":"Descubra seu próximo destino"
+    },{
+        "img": "../assets/images/rio.jpg",
+        "alt": "Rio",
+        "name": "Rio",
+        "button":"Descubra seu próximo destino"
+    }
+]

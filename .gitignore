@@ -58,6 +58,7 @@ typings/
 .cache/
 public
 src/assets/videos/
+src/assets/images/
 # Mac files
 .DS_Store
 
