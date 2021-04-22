@@ -15,6 +15,7 @@ const IndexPage = () => (
     <Testimonials/>
     <Stats/>
     <Email/>
+    
   </Layout>
 )
 
