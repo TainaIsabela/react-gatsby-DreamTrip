@@ -8,17 +8,17 @@
     {
         "img": "../assets/images/cachoeira.jpg",
         "alt": "Cascatas",
-        "name": "Cascatas da ",
+        "name": "Cascata Conde d’Eu",
         "button":"Descubra seu próximo destino"
     },{
         "img": "../assets/images/lagoa.jpg",
         "alt": "Lagoa",
-        "name": "Lagoa",
+        "name": "Lake Louise",
         "button":"Descubra seu próximo destino"
     },{
         "img": "../assets/images/rio.jpg",
         "alt": "Rio",
-        "name": "Rio",
+        "name": "Kinney Lakes",
         "button":"Descubra seu próximo destino"
     }
 ]
