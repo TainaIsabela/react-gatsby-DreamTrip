@@ -9,7 +9,7 @@ export const Email = () => {
             <EmailContent>
                 <h1>Tenha acesso exclusivo a nossas ofertas</h1>
                 <p>Assine nossa revista e tenha até R$100 em desconto na sua primeira viagem!</p>
-                <form action="#">
+                <form action="/">
                     <FormWrap>
                         <label htmlFor="email">
                             <input type="email" placeholder="Entre com seu email" id="email"/>

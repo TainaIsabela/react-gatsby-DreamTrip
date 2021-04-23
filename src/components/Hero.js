@@ -12,7 +12,7 @@ const Hero = () =>{
                 <HeroItems>
                     <HeroH1>Destinos Incríveis</HeroH1>
                     <HeroP> A um clique de distância</HeroP>
-                    <Button primary="true" big="true" round="true" to="/trips">Viaje Agora</Button> 
+                    <Button primary="true" big="true" round="true" to="/">Viaje Agora</Button> 
                 </HeroItems>
             </HeroContent>
         </HeroContainer>
